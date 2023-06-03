@@ -5,3 +5,5 @@ print (name)
 print (len(name))
 print ((name.capitalize()))
 print ((name.upper()))
+
+#----Methods need more referance 

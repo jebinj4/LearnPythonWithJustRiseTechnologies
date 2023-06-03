@@ -1,0 +1,102 @@
+
+01.Learn Python
+https://www.youtube.com/watch?v=-FXLwjugI_Q&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG
+
+Important topics 
+
+-Datatypes
+    -int
+    -string
+    -booleon 
+    -float
+-Operators
+    - +,-,/,*,%
+-Relational Operators
+  -  =<>  or	!=
+  -   <
+  -  >
+  -  <=
+  -  >=
+  
+-Variables
+    -list
+    -tuple
+-arrey
+-If statement
+-While Loop
+-function
+-classes
+
+
+-------------------------------------------------------------------------
+
+02.SQL - Oracle/Mysql, MS Sql
+Quick Knowledge about SQL : https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt&index=1
+
+Important topics 
+
+-Data Types
+
+-Select qurey
+
+-Relational Operators
+  -  =<>  or	!=
+  -   <
+  -  >
+  -  <=
+  -  >=
+  -  in	not in
+  -  like	not like
+  -  between   	not between
+  -  all
+  -  any
+  -  is null	is not null
+  -  and or operators 
+
+-character manipulation
+  -  instr
+  -  substr
+  -  length
+  -  replace
+  -  translate
+  -  reverse
+  -  trim
+  -  ltrim
+  -  rtrim
+  -  lpad
+  -  rpad
+
+-general functions
+
+  -  distinct / unique
+  -  greates
+  -  least
+  -  concat	||
+  -  case
+  -  decode
+  
+-Set Operators
+
+  -  union	
+  -  union all    
+  -  intersect	
+  -  minus	
+
+-types of joins
+
+  -  inner join		
+  -  left outer join	
+  -  right outer join	
+  -  full outer join	
+  -  self join		
+  -  cross join		
+  
+  
+  ----------------------------------------------------------------------
+  
+  03.Tableau
+  
+  local tamil guy (1.15 hrs content ) : https://www.youtube.com/watch?v=MsP2x4_fJuM&list=PL9OxQFyTXATMY-DsQnJQ-dkXQrncj8vob
+  
+  Full Course from Edureka : https://www.youtube.com/watch?v=aHaOIvR00So
+  

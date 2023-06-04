@@ -41,4 +41,4 @@ odds.intersection(even)
 
 2 in even
 2 not in even
->> True
+# >> True

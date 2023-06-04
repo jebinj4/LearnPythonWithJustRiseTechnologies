@@ -8,9 +8,10 @@
 
 help('modules') # to see all the list of modules available for python
 
-import modules_name
+# import modules_name
 
 dir()
-help(math.radians)
 
-maths.radians(180)
+# help(math.radians)
+
+# maths.radians(180)

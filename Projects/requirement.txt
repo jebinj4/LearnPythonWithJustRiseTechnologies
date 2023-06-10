@@ -1,0 +1,15 @@
+mutable and immutable 
+
+inmutable-cannt change
+stringint
+float
+bool
+bytes
+tuple - x=(1,2,3)
+
+mutable- Can change
+list - x=[1,2]
+Set
+dict
+
+---List Comprehinsion

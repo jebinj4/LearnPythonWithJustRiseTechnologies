@@ -1,0 +1,11 @@
+*GitHub*
+Github download: https://desktop.github.com/
+
+*Handling with Sample data, Sample Json website data*
+1.Sample Json Data website link with Json Class creator for Dart Coding: https://youtube.com/watch?v=FH4ckL37LHw
+2.Sample Json Data website link with flutter List View: https://www.youtube.com/watch?v=KCYKYe1Ts1o
+3.Getting live data from MySql to flutter : https://www.youtube.com/watch?v=IVRqEOPI9Cs
+
+*Python Api*
+1.Full python API Master course with Postman , database, Pyhton Fast API
+https://www.youtube.com/watch?v=0sOvCWFmrtA&feature=youtu.be

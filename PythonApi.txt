@@ -1,6 +1,11 @@
 *GitHub*
 Github download: https://desktop.github.com/
 
+*Python*
+Basic Python Tutorials :https://www.youtube.com/watch?v=picCusmKDs0&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG&index=11
+Depth Python Tutorials: https://www.youtube.com/watch?v=KOdfpbnWLVo&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+
 *Handling with Sample data, Sample Json website data*
 1.Sample Json Data website link with Json Class creator for Dart Coding: https://youtube.com/watch?v=FH4ckL37LHw
 2.Sample Json Data website link with flutter List View: https://www.youtube.com/watch?v=KCYKYe1Ts1o
